@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="API Test Suite">
+    <test name="Categories API Tests">
+        <classes>
+            <class name="nz.co.assurity.api.GetCategoriesTest"/>
+        </classes>
+    </test>
+</suite>
